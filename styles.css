@@ -2,9 +2,5 @@
 /* Your CSS Code here. */
 .holder{
 	display: block;
-}
- .item-1{
-	display: flex;
-	justify-content: center;
-    align-items: center;
+	text-align: center;
 }

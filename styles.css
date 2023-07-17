@@ -2,6 +2,8 @@
 /* Your CSS Code here. */
 .holder{
 	display: flex;
+	justify-content: center;
+	text-align: center;
 }
 .item-1{
 	text-align: center;

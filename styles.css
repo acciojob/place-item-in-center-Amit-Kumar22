@@ -2,5 +2,7 @@
 /* Your CSS Code here. */
 .holder{
 	display: block;
+}
+.item-1{
 	text-align: center;
 }
